@@ -8,7 +8,7 @@ namespace Builder
 {
     public class Character
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public string Class { get; set; }
         public int Health { get; set; }
         public int AttackPower { get; set; }
