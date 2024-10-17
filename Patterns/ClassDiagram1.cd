@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patterns.GasConcreteCreator" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GasConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.MaterialCreator" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MaterialCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.WoodCreator" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>WoodCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.BrickCreator" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BrickCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Wood" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Wood.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.226" />
+  </Class>
+  <Class Name="Patterns.GasConcrete" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>GasConcrete.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.216" />
+  </Class>
+  <Class Name="Patterns.Brick" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Brick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.206" />
+  </Class>
+  <Interface Name="Patterns.IMaterial" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>IMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
